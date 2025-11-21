@@ -1,0 +1,5 @@
+Cluster Personas:
+0 → Low-Income Digital Browsers: frequent online visits, low spending
+1 → Affluent Multi-Category Big Spenders: wealthy, high spend across all categories
+2 → High-Income Wine & Meat Enthusiasts: premium spenders focused on wines and meat
+3 → Omnichannel Moderate Spenders: balanced across store, web, and catalog with moderate spending
